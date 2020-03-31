@@ -28,7 +28,7 @@ twitter_username: yxm0513
 github_username:  yxm0513
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 #remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
